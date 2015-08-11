@@ -6,6 +6,6 @@
 
 ### 2015-08-11
 #### Added
-    - Initial README content
+  - Initial README content
 
 
